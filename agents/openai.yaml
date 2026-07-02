@@ -1,0 +1,4 @@
+interface:
+  display_name: "剧本角色资产拆解"
+  short_description: "从剧本拆解角色资产，生成可复用视觉设定与图像提示词"
+  default_prompt: "使用 $extract-script-character-assets 根据我的剧本和全剧风格提示词提取角色资产。"
